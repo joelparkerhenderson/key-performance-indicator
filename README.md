@@ -175,6 +175,6 @@ The following are KPI examples for gauging Service Quality performance:
 
 <h2><a name="credits">Credits</a></h2>
 
-* [PNMsoft KPI Examples]*http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/)
+* [PNMsoft KPI Examples](http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/)
 
 * [Metrics and Performance Measurement System for the Lean Enterprise](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-852j-integrating-the-lean-enterprise-fall-2005/lecture-notes/12_metrics.pdf)
