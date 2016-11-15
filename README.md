@@ -4,7 +4,7 @@
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
 * [KPI examples](#kpi-examples)
-* [For more information](#more)
+* [Measures vs. metrics](#measures-vs-metrics)
 * [Credits](#credits)
 
 <h2><a name="introduction">What is a KPI?</a></h2>
@@ -22,25 +22,6 @@ Success examples:
 Wikipedia pages:
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator)
 * [Performance measurement](https://en.wikipedia.org/wiki/Performance_measurement)
-
-
-<h2><a name="indicators-vs-meeasures-vs-metrics">Indicators vs. metrics vs. measures</a></h2>
-
-There is overlap between indicators, measures, and metrics.
-
-* Indicators are ?
-
-* Measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
-
-* Metrics describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
-
-Examples:
-
-* Indicators are useful for ?
-
-* Measures are useful for demonstrating workloads and activity
-
-* Metrics are useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
 
 
 <h2><a name="how-to-define-a-kpi">How to define a KPI</a></h2>
@@ -85,6 +66,21 @@ KPI examples in various areas of interest:
 * [Service quality](examples/service_quality.md)
 
 If you're interested in KPIs for other areas, then please let us know.
+
+
+<h2><a name="meeasures-vs-metrics">Measures vs. metrics</a></h2>
+
+There is overlap between measures and metrics.
+
+* Measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
+
+* Metrics describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
+
+Examples:
+
+* Measures are useful for demonstrating workloads and activity
+
+* Metrics are useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
 
 
 <h2><a name="credits">Credits</a></h2>
