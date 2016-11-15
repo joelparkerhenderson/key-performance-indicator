@@ -26,7 +26,7 @@ Wikipedia pages:
 * [Performance measurement](https://en.wikipedia.org/wiki/Performance_measurement)
 
 Our related guides that use KPIs:
-* {Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+* [Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 * [System quality attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
 
 
