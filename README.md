@@ -66,6 +66,7 @@ KPI examples in various areas of interest:
 * [Compliance](examples/compliance.md)
 * [Service level agreements (SLAs)](examples/service_level_agreements.md)
 * [Service quality](examples/service_quality.md)
+* [Programmers](examples/programmers.md)
 * [DevOps](examples/devops.md)
 
 If you're interested in KPIs for other areas, then please let us know.
@@ -86,8 +87,12 @@ Examples:
 * Metrics are useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
 
 
-<h2><a name="credits">Credits</a></h2>
+<h2><a name="credits">Credits and links</a></h2>
 
 * [PNMsoft KPI Examples](http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/)
 
 * [Metrics and Performance Measurement System for the Lean Enterprise](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-852j-integrating-the-lean-enterprise-fall-2005/lecture-notes/12_metrics.pdf)
+
+* [Speed, Accuracy, Quality, and Joy: Four areas every product manager should focus on to increase their team intelligence](https://productcoalition.com/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2)
+
+* [Quora: What are good KPIs for programmers](https://www.quora.com/What-are-good-KPIs-for-programmers)
