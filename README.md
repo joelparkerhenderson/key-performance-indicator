@@ -25,6 +25,10 @@ Wikipedia pages:
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator)
 * [Performance measurement](https://en.wikipedia.org/wiki/Performance_measurement)
 
+Our related guides that use KPIs:
+* {Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+* [System quality attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
+
 
 <h2><a name="how-to-define-a-kpi">How to define a KPI</a></h2>
 
