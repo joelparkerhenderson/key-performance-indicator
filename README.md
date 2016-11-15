@@ -81,7 +81,7 @@ KPI examples in various areas of interest:
 * [Business process](examples/business_process.md)
 * [Efficiency](examples/efficiency.md)
 * [Compliance](examples/compliance.md)
-* [Service level agreement (SLA)](examples/service_level_agreements.md)
+* [Service level agreements (SLAs)](examples/service_level_agreements.md)
 * [Service quality](examples/service_quality.md)
 
 If you're interested in KPIs for other areas, then please let us know.
