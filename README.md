@@ -1,4 +1,6 @@
-# Key Performance Indicators (KPIs)
+# Key Performance Indicator (KPI)
+
+This repo is renamed to [key_performance_indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
 
 <img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
 
