@@ -6,7 +6,8 @@
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
 * [KPI examples](#kpi-examples)
-* [Measures vs. metrics](#measures-vs-metrics)
+* [KPI vs. KLI vs. KPM](#kpi-vs-kli-vs-kpm)
+* [Measure vs. metric](#measures-vs-metrics)
 * [Credits](#credits)
 
 <h2><a name="introduction">What is a KPI?</a></h2>
@@ -77,19 +78,28 @@ KPI examples in various areas of interest:
 If you're interested in KPIs for other areas, then please let us know.
 
 
-<h2><a name="meeasures-vs-metrics">Measures vs. metrics</a></h2>
+<h2><a name="kpi-vs-kli-vs-kpm">KPI vs. KLI vs. KPM</a></h2>
 
-There is overlap between measures and metrics.
+* A Key Performance Indicator (KPI) is the top-level concept in this guide.
 
-* Measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
+* A Key Leading Indicator (KLI) is a KPI that tends to show up earliest.
 
-* Metrics describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
+* A Key Performance Measure (KPM) is how you measure a KPI.
+
+
+<h2><a name="meeasure-vs-metric">Measure vs. metric</a></h2>
+
+There is overlap between a measure and a metric.
+
+* A measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
+
+* A metric describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
 
 Examples:
 
-* Measures are useful for demonstrating workloads and activity
+* A measure can be useful for demonstrating workloads and activity
 
-* Metrics are useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
+* A metric can be useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
 
 
 <h2><a name="credits">Credits and links</a></h2>
