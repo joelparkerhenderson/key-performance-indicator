@@ -2,6 +2,7 @@
 
 <img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
 
+Contents:
 * [What is a KPI?](#what-is-a-kpi)
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
@@ -9,6 +10,19 @@
 * [KPI vs. KLI vs. KPM](#kpi-vs-kli-vs-kpm)
 * [Measure vs. metric](#measures-vs-metrics)
 * [Credits](#credits)
+
+KPI examples:
+* [Finance](examples/finance.md)
+* [Business process](examples/business_process.md)
+* [Ecommerce](examples/ecommerce.md)
+* [Efficiency](examples/efficiency.md)
+* [Compliance](examples/compliance.md)
+* [Service level agreements (SLAs)](examples/service_level_agreements.md)
+* [Service quality](examples/service_quality.md)
+* [Programmers](examples/programmers.md)
+* [DevOps](examples/devops.md)
+* [Kanban](examples/kanban.md)
+
 
 <h2><a name="introduction">What is a KPI?</a></h2>
 
@@ -59,23 +73,6 @@ To improve a KPI, you can ask these questions:
 * Does it focus the organization on the priority improvement needs?
 * Does it drive the behavior and actions required to achieve the objectives?
 * Does it align work with value?
-
-
-<h2><a name="kpi-examples">KPI examples</a></h2>
-
-KPI examples in various areas of interest:
-
-* [Finance](examples/finance.md)
-* [Business process](examples/business_process.md)
-* [Ecommerce](examples/ecommerce.md)
-* [Efficiency](examples/efficiency.md)
-* [Compliance](examples/compliance.md)
-* [Service level agreements (SLAs)](examples/service_level_agreements.md)
-* [Service quality](examples/service_quality.md)
-* [Programmers](examples/programmers.md)
-* [DevOps](examples/devops.md)
-
-If you're interested in KPIs for other areas, then please let us know.
 
 
 <h2><a name="kpi-vs-kli-vs-kpm">KPI vs. KLI vs. KPM</a></h2>
