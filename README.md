@@ -6,6 +6,7 @@ Contents:
 * [What is a KPI?](#what-is-a-kpi)
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
+* [Indicators](#indicators)
 * [KPI examples](#kpi-examples)
 * [KPI vs. KLI vs. KPM](#kpi-vs-kli-vs-kpm)
 * [Measure vs. metric](#measures-vs-metrics)
@@ -73,6 +74,21 @@ To improve a KPI, you can ask these questions:
 * Does it focus the organization on the priority improvement needs?
 * Does it drive the behavior and actions required to achieve the objectives?
 * Does it align work with value?
+
+
+<h2><a name="indicators">Indicators</a></h2>
+
+* Quantitative indicators: can be presented with a number.
+* Qualitative indicators: can't be presented as a number.
+* Leading indicators: predict the outcome of a process
+* Lagging indicators: present the success or failure post hoc
+* Input indicators: measure the amount of resources consumed during the generation of the outcome
+* Process indicators: represent the efficiency or the productivity of the process
+* Output indicators: reflect the outcome or results of the process activities
+* Practical indicators: interface with existing company processes.
+* Directional indicators: specifying how something is changing, such as getting better or worse.
+* Actionable indicators: sufficiently in an organization's control to effect change.
+* Financial indicators: used in performance measurement and when looking at an operating index.
 
 
 <h2><a name="kpi-vs-kli-vs-kpm">KPI vs. KLI vs. KPM</a></h2>
