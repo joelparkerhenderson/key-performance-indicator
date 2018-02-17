@@ -3,14 +3,13 @@
 <img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
 
 Contents:
-* [What is a KPI?](#what-is-a-kpi)
+* [What is a KPI?](#what-is-a-kpi-)
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
 * [Indicators](#indicators)
-* [KPI examples](#kpi-examples)
 * [KPI vs. KLI vs. KPM](#kpi-vs-kli-vs-kpm)
-* [Measure vs. metric](#measures-vs-metrics)
-* [Credits](#credits)
+* [Measure vs. metric](#measure-vs-metric)
+* [Credits and links](#credits-and-links)
 
 KPI examples:
 * [Finance](examples/finance.md)
@@ -25,12 +24,12 @@ KPI examples:
 * [Kanban](examples/kanban.md)
 
 
-<h2><a name="introduction">What is a KPI?</a></h2>
+## What is a KPI?
 
 A key performance indicator (KPI) is a type of performance measurement.
 
 * A KPI evaluates the success of an organization or activity.
-* Choosing the right KPIs needs good understanding of what is important to the or
+* Choosing the right KPIs needs good understanding of what is important to the organization.
 
 Success examples:
 
@@ -46,7 +45,7 @@ Our related guides that use KPIs:
 * [System quality attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
 
 
-<h2><a name="how-to-define-a-kpi">How to define a KPI</a></h2>
+## How to define a KPI
 
 To define a KPI, you can cover these areas:
 
@@ -62,7 +61,7 @@ To define a KPI, you can cover these areas:
 * Comments: any outstanding issues regarding the indicator
 
 
-<h2><a name="how-to-improve-a-kpi">How to improve a KPI</a></h2>
+## How to improve a KPI
 
 To improve a KPI, you can ask these questions:
 
@@ -76,7 +75,7 @@ To improve a KPI, you can ask these questions:
 * Does it align work with value?
 
 
-<h2><a name="indicators">Indicators</a></h2>
+## Indicators
 
 * Quantitative indicators: can be presented with a number.
 * Qualitative indicators: can't be presented as a number.
@@ -91,7 +90,7 @@ To improve a KPI, you can ask these questions:
 * Financial indicators: used in performance measurement and when looking at an operating index.
 
 
-<h2><a name="kpi-vs-kli-vs-kpm">KPI vs. KLI vs. KPM</a></h2>
+## KPI vs. KLI vs. KPM
 
 * A Key Performance Indicator (KPI) is the top-level concept in this guide.
 
@@ -100,7 +99,7 @@ To improve a KPI, you can ask these questions:
 * A Key Performance Measure (KPM) is how you measure a KPI.
 
 
-<h2><a name="meeasure-vs-metric">Measure vs. metric</a></h2>
+## Measure vs. metric
 
 There is overlap between a measure and a metric.
 
@@ -115,7 +114,7 @@ Examples:
 * A metric can be useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
 
 
-<h2><a name="credits">Credits and links</a></h2>
+## Credits and links
 
 * [PNMsoft KPI Examples](http://www.pnmsoft.com/resources/bpm-tutorial/key-performance-indicators/)
 
