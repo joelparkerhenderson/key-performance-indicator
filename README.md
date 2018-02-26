@@ -12,7 +12,7 @@
 <img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
 
 Contents:
-* [What is a KPI?](#what-is-a-kpi-)
+* [What is a KPI?](#what-is-a-kpi)
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
 * [Indicators](#indicators)
