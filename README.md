@@ -12,6 +12,7 @@
 <img src="README.png" alt="Key Performance Indicator" style="width: 100%;"/>
 
 Contents:
+
 * [What is a KPI?](#what-is-a-kpi)
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
@@ -20,7 +21,9 @@ Contents:
 * [Measure vs. metric](#measure-vs-metric)
 * [Credits and links](#credits-and-links)
 
+
 KPI examples:
+
 * [Finance](examples/finance.md)
 * [Business process](examples/business_process.md)
 * [Ecommerce](examples/ecommerce.md)
