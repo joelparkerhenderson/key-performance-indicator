@@ -17,10 +17,12 @@ Contents:
 * [How to define a KPI](#how-to-define-a-kpi)
 * [How to improve a KPI](#how-to-improve-a-kpi)
 * [Indicators](#indicators)
-* [KPI vs. KLI vs. KPM](#kpi-vs-kli-vs-kpm)
+* [Key Leading Indicator (KLI)](#key-leading-indicator-kli)
+* [Key Performance Measure (KPM)](#key-performance-measure-kpm)
 * [Measure vs. metric](#measure-vs-metric)
 * [Credits and links](#credits-and-links)
 
+<subcontents>
 
 KPI examples:
 
@@ -35,25 +37,33 @@ KPI examples:
 * [DevOps](examples/devops.md)
 * [Kanban](examples/kanban.md)
 
+</subcontents>
+
 
 ## What is a KPI?
 
 A key performance indicator (KPI) is a type of performance measurement.
 
 * A KPI evaluates the success of an organization or activity.
+
 * Choosing the right KPIs needs good understanding of what is important to the organization.
 
 Success examples:
 
 * Repeated periodic achievement of an operational goal, such as 100% customer satistfaction, or zero defects, etc.
+
 * Making progress toward strategic goals.
 
 Wikipedia pages:
+
 * [Performance indicator](https://en.wikipedia.org/wiki/Performance_indicator)
+
 * [Performance measurement](https://en.wikipedia.org/wiki/Performance_measurement)
 
 Our related guides that use KPIs:
+
 * [Strategic balanced scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+
 * [System quality attributes](https://github.com/joelparkerhenderson/system_quality_attributes)
 
 
@@ -62,14 +72,23 @@ Our related guides that use KPIs:
 To define a KPI, you can cover these areas:
 
 * Title: use an exact name to avoid ambiguity
+
 * Objective: the relation of the indicator with the organizational objectives must be clear
+
 * Scope: state the areas of business and/or parts of the organization that are included and/or excluded.
+
 * Target: Benchmarks must be determined in order to monitor progress
+
 * Formula: the exact calculation of the indicator
+
 * Units: what is/are the unit(s) of measurement in use
+
 * Frequency: when is the indicator recorded and reported
+
 * Data source: the exact data sources involved in calculating a indicator value
+
 * Owner: the accountable person for the indicator
+
 * Comments: any outstanding issues regarding the indicator
 
 
@@ -78,44 +97,62 @@ To define a KPI, you can cover these areas:
 To improve a KPI, you can ask these questions:
 
 * Does it clearly define what constitutes success?
+
 * Does it clearly relate to a strategic objective and key result (OKR)?
+
 * Does it provide the information required to set SMART goals?
+
 * Does it accurately portray progress and probability of achieving both long-term strategic objectives and near-term milestones?
+
 * Does it identify the root causes of barriers?
+
 * Does it focus the organization on the priority improvement needs?
+
 * Does it drive the behavior and actions required to achieve the objectives?
+
 * Does it align work with value?
 
 
 ## Indicators
 
 * Quantitative indicators: can be presented with a number.
+
 * Qualitative indicators: can't be presented as a number.
+
 * Leading indicators: predict the outcome of a process
+
 * Lagging indicators: present the success or failure post hoc
+
 * Input indicators: measure the amount of resources consumed during the generation of the outcome
+
 * Process indicators: represent the efficiency or the productivity of the process
+
 * Output indicators: reflect the outcome or results of the process activities
+
 * Practical indicators: interface with existing company processes.
+
 * Directional indicators: specifying how something is changing, such as getting better or worse.
+
 * Actionable indicators: sufficiently in an organization's control to effect change.
+
 * Financial indicators: used in performance measurement and when looking at an operating index.
 
 
-## KPI vs. KLI vs. KPM
+## Key Leading Indicator (KLI)
 
-* A Key Performance Indicator (KPI) is the top-level concept in this guide.
+A Key Leading Indicator (KLI) is a KPI that tends to show up earliest.
 
-* A Key Leading Indicator (KLI) is a KPI that tends to show up earliest.
 
-* A Key Performance Measure (KPM) is how you measure a KPI.
+## Key Performance Measure (KPM)
+
+A Key Performance Measure (KPM) is how you measure a KPI.
 
 
 ## Measure vs. metric
 
 There is overlap between a measure and a metric.
 
-* A measures are concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
+* A measure is concrete, usually measure one thing, and are quantitative in nature (e.g. I have five apples).
 
 * A metric describe a quality and require a measurement baseline (I have five more apples than I did yesterday).
 
