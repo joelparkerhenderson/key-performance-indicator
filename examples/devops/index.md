@@ -3,8 +3,13 @@
 KPI examples for DevOps, software deployements and operations, and so forth:
 
 * Deployment success rate
+
 * Deployment frequency
-*Deployment speed
+
+* Deployment speed
+
 * Failure rate
+
 * Time to recovery
-* Happier lives for sysadmins and developers
+
+* Happier lives for developers and operators

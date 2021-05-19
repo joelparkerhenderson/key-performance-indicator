@@ -24,18 +24,20 @@ Contents:
 
 <subcontents>
 
-KPI examples:
+Examples:
 
-* [Finance](examples/finance.md)
-* [Business process](examples/business_process.md)
-* [Ecommerce](examples/ecommerce.md)
-* [Efficiency](examples/efficiency.md)
-* [Compliance](examples/compliance.md)
-* [Service level agreements (SLAs)](examples/service_level_agreements.md)
-* [Service quality](examples/service_quality.md)
-* [Programmers](examples/programmers.md)
-* [DevOps](examples/devops.md)
-* [Kanban](examples/kanban.md)
+* [KPI examples for business](examples/business/index.md)
+* [KPI examples for compliance](examples/compliance/index.md)
+* [KPI examples for devops](examples/devops/index.md)
+* [KPI examples for ecommerce](examples/ecommerce/index.md)
+* [KPI examples for efficiency](examples/efficiency/index.md)
+* [KPI examples for finance](examples/finance/index.md)
+* [Examples](examples/index.md)
+* [KPI examples for kanban](examples/kanban/index.md)
+* [KPI examples for programmers](examples/programmers/index.md)
+* [KPI examples for service level agreements (SLAs)](examples/service-level-agreements/index.md)
+* [KPI examples for service quality](examples/service-quality/index.md)
+* [KPI examples for value stream map (VSM) areas](examples/value-stream-map/index.md)
 
 </subcontents>
 
