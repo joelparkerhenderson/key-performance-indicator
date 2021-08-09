@@ -194,3 +194,5 @@ Examples:
 * [Speed, Accuracy, Quality, and Joy: Four areas every product manager should focus on to increase their team intelligence](https://productcoalition.com/four-areas-every-product-manager-should-focus-on-to-increase-team-intelligence-829bb9e269e2)
 
 * [Quora: What are good KPIs for programmers](https://www.quora.com/What-are-good-KPIs-for-programmers)
+
+* [MIT Sloan: Leading With Next-Generation Key Performance Indicators](https://sloanreview.mit.edu/projects/leading-with-next-generation-key-performance-indicators/)
