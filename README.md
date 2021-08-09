@@ -20,6 +20,7 @@ Contents:
 * [Key Leading Indicator (KLI)](#key-leading-indicator-kli)
 * [Key Performance Measure (KPM)](#key-performance-measure-kpm)
 * [Measure vs. metric](#measure-vs-metric)
+* [The 7 habits of highly effective KPI users](#the-7-habits-of-highly-effective-kpi-users)
 * [Credits and links](#credits-and-links)
 
 <subcontents>
@@ -163,6 +164,25 @@ Examples:
 * A measure can be useful for demonstrating workloads and activity
 
 * A metric can be useful for evaluating compliance, processes effectiveness, and measuring success against established objectives.
+
+
+## The 7 habits of highly effective KPI users
+
+[Link](https://mitsloan.mit.edu/ideas-made-to-matter/digital-business-needs-new-kpis-heres-why-they-matter)
+
+* <b>KPIs help lead as well as manage.</b> KPIs are more than just “numbers to hit”, they are metrics that help leaders anticipate the future and develop informed business plans.
+
+* <b>KPIs align the organization.</b> Selecting the right KPIs gets everyone in the organization on the same page, with both people and processes aligned to better serve customers’ needs. 
+
+* <b>KPIs provide an integrated view of the customer.</b> Framing KPIs around awareness and anticipation of customer needs enables firms to engage customers at various touchpoints.
+    
+* <b>KPI components inform decision-making.</b> Organizations with the capability to analyze KPI data in real-time are better positioned to adjust priorities than organizations that can only conduct a retrospective analysis.
+
+* <b>KPI data is shared across business units.</b> Success depends on cross-functional collaboration. Data visibility plays an important part in this collaboration, as managers need to see how their actions impact KPIs.
+
+* <b>KPIs aren’t allowed to proliferate indiscriminately.</b> There is no “magic number” of KPIs, but fewer is generally better: focus on KPIs that drive business growth, such as 3 enterprise KPIs and 3 functional KPIs.
+
+* <b>KPIs serve as data sets for machine learning.</b>  KPIs can “teach” machine learning models in order to improve performance over time. This allows models to input transactional data, then solve for long-term values.
 
 
 ## Credits and links
