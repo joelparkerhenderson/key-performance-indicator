@@ -13,15 +13,15 @@
 
 Contents:
 
-* [What is a KPI?](#what-is-a-kpi)
-* [How to define a KPI](#how-to-define-a-kpi)
-* [How to improve a KPI](#how-to-improve-a-kpi)
-* [Indicators](#indicators)
-* [Key Leading Indicator (KLI)](#key-leading-indicator-kli)
-* [Key Performance Measure (KPM)](#key-performance-measure-kpm)
-* [Measure vs. metric](#measure-vs-metric)
-* [The 7 habits of highly effective KPI users](#the-7-habits-of-highly-effective-kpi-users)
-* [Credits and links](#credits-and-links)
+- [What is a KPI?](#what-is-a-kpi)
+- [How to define a KPI](#how-to-define-a-kpi)
+- [How to improve a KPI](#how-to-improve-a-kpi)
+- [Indicators](#indicators)
+- [Key Leading Indicator (KLI)](#key-leading-indicator-kli)
+- [Key Performance Measure (KPM)](#key-performance-measure-kpm)
+- [Measure vs. metric](#measure-vs-metric)
+- [The 7 habits of highly effective KPI users](#the-7-habits-of-highly-effective-kpi-users)
+- [Credits and links](#credits-and-links)
 
 <subcontents>
 
@@ -39,6 +39,7 @@ Examples:
 * [KPI examples for service level agreements (SLAs)](examples/service-level-agreements/index.md)
 * [KPI examples for service quality](examples/service-quality/index.md)
 * [KPI examples for value stream map (VSM) areas](examples/value-stream-map/index.md)
+* [KPI examples by Orcale Netsuite](examples/oracle-netsuite/)
 
 </subcontents>
 
@@ -196,3 +197,5 @@ Examples:
 * [Quora: What are good KPIs for programmers](https://www.quora.com/What-are-good-KPIs-for-programmers)
 
 * [MIT Sloan: Leading With Next-Generation Key Performance Indicators](https://sloanreview.mit.edu/projects/leading-with-next-generation-key-performance-indicators/)
+
+* [Selecting the right product metrics (KPIs) by A Smart Bear](https://longform.asmartbear.com/product-metrics/)
